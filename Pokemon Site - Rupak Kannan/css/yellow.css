@@ -1,0 +1,26 @@
+/*
+
+	Rupak kannan
+	11-06-2020
+*/
+body {
+	background-color: lightyellow;
+	color:black;
+}
+
+.unique {
+	float:right;
+	display: block;
+	width: 40%;
+	border: 3px solid black;
+}
+
+#grad {
+	background-image: linear-gradient(lightyellow, white, lightyellow);
+}
+
+.cover{
+	float:center;	
+	margin:auto;
+	width: 85%;
+}

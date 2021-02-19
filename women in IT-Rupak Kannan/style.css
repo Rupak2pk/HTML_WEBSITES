@@ -1,0 +1,96 @@
+/* 
+Rupak Kannan Nov 12 2020
+*/
+
+body {
+	background-color:lightblue;
+	font-family:courier;
+	font-size:12px;
+}
+
+.header{
+	display:block;
+	font-family:Impact;
+	color:lightblue;
+	background: radial-gradient(lightblue,blue);
+	width:100%;
+}
+
+
+.content{
+	position:relative;
+}
+
+.content p{ 
+	display:block;
+	font-style: oblique;
+	float:right;
+	margin-right:300px;
+	width:60%;
+	background:orange;
+}
+
+.content img{
+	
+	display:block;
+	float:left;
+	height: 200px;
+	border: 2px solid blue
+}
+	
+.opening{
+	font-weight:600;
+	font-style: oblique;
+	margin:auto;
+}
+
+.opening:first-letter {
+  font-size: xx-large;
+}
+
+.content h2{
+	color:darkblue;
+	text-align:right;
+	bottom: 33px;
+	width:60%;
+}
+
+.borders {
+	height:300px;
+	border: 2px solid;
+
+
+li {
+  display: inline;
+  padding-right: 92px;
+
+}
+
+nav {
+	background-color: blue;
+}
+
+
+
+nav a{
+	color:lightblue;
+	text-decoration:none;
+}
+
+a:hover{
+	color:blue;
+	background-color:lightblue;
+}
+
+.footer{
+	border:1px solid gray;
+	text-align:center;
+	background:Aquamarine;
+	font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.footer a:hover{
+	color:darkblue;
+	background:Aquamarine;
+	text-decoration:none;
+}

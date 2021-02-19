@@ -1,0 +1,37 @@
+/*
+
+	Rupak kannan
+	11-06-2020
+*/
+
+body {
+	font-family: "Arial";
+}
+
+a {
+	color: yellow;
+	text-decoration:none;
+	}
+	
+a:hover {
+	color: blue;
+}
+
+
+
+nav {
+	background-color: blue;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 33%;
+}
+
+nav #current{
+	text-decoration:underline;
+}
+	
+	

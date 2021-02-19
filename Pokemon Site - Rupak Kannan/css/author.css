@@ -1,0 +1,27 @@
+/*
+
+	Rupak kannan
+	11-06-2020
+*/
+
+body {
+	background-color: orange;
+	color:black;
+	}
+	
+.image{
+display: block;
+margin: auto;
+width: 30%;
+}
+
+#grad {
+	background-image: linear-gradient(orange, white, orange);
+}
+
+.info{
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+}
+	
